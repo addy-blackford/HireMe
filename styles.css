@@ -1,0 +1,32 @@
+body{
+ background: rgb(64,212,214);
+background: linear-gradient(0deg, rgba(64,212,214,1) 0%, rgba(255,213,123,1) 100%);
+    color: #da0000;
+}
+h1{
+ text-align: center;   
+}
+
+h3{
+ text-align: center;   
+}
+
+p{
+ text-align: center;   
+}
+
+.black-text{
+ color:#000000;   
+}
+
+.grey-text{
+    color:#808080;
+}
+
+.dark-grey{
+ color: #818589;   
+}
+
+.scarlet-text{
+ color: #ff2400;   
+}
